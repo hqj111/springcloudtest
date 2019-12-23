@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.hqj.project.mapper.StudentMapper">
+    <select id="getStudentList" resultType="com.hqj.project.entity.Student">
+        select sid,sname,sage,ssex,dbsource from student
+    </select>
+
+    <select id="getStudentById" resultType="com.hqj.project.entity.Student">
+        select sid,sname,sage,ssex,dbsource from student where sid = #{id}
+    </select>
+    <insert id="addStudent" parameterType="com.hqj.project.entity.Student">
+        insert into student(sid,sname,sage,ssex,dbsource) value (#{sid},#{sname},#{sage},#{ssex},DATABASE())
+    </insert>
+</mapper>

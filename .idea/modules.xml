@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springcloudparent/spring-cloud-stu-8004/spring-cloud-parent.iml" filepath="$PROJECT_DIR$/springcloudparent/spring-cloud-stu-8004/spring-cloud-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloudparent/spring-cloud-stu-8003/spring-cloud-parent.iml" filepath="$PROJECT_DIR$/springcloudparent/spring-cloud-stu-8003/spring-cloud-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloudparent/spring-cloud-stu-8003/spring-cloud-stu-8002.iml" filepath="$PROJECT_DIR$/springcloudparent/spring-cloud-stu-8003/spring-cloud-stu-8002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloudparent/spring-cloud-stu-8004/spring-cloud-stu-8004.iml" filepath="$PROJECT_DIR$/springcloudparent/spring-cloud-stu-8004/spring-cloud-stu-8004.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloudparent/spring-cloud-api/springcloudapi.iml" filepath="$PROJECT_DIR$/springcloudparent/spring-cloud-api/springcloudapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloudparent/spring-cloud-consumer-80/springcloudconsumer80.iml" filepath="$PROJECT_DIR$/springcloudparent/spring-cloud-consumer-80/springcloudconsumer80.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloudparent/spring-cloud-eureka-7000/springcloudeureka7000.iml" filepath="$PROJECT_DIR$/springcloudparent/spring-cloud-eureka-7000/springcloudeureka7000.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloudparent/spring-cloud-eureka-7001/springcloudeureka7001.iml" filepath="$PROJECT_DIR$/springcloudparent/spring-cloud-eureka-7001/springcloudeureka7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloudparent/spring-cloud-eureka-7002/springcloudeureka7002.iml" filepath="$PROJECT_DIR$/springcloudparent/spring-cloud-eureka-7002/springcloudeureka7002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloudparent/spring-cloud-feign-80/springcloudfeign80.iml" filepath="$PROJECT_DIR$/springcloudparent/spring-cloud-feign-80/springcloudfeign80.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloudparent/spring-cloud-hystrix-8005/springcloudhystrix8005.iml" filepath="$PROJECT_DIR$/springcloudparent/spring-cloud-hystrix-8005/springcloudhystrix8005.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloudparent/spring-cloud-stu-8001/springcloudstu8001.iml" filepath="$PROJECT_DIR$/springcloudparent/spring-cloud-stu-8001/springcloudstu8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloudparent/spring-cloud-zuul-9002/springcloudzuul9002.iml" filepath="$PROJECT_DIR$/springcloudparent/spring-cloud-zuul-9002/springcloudzuul9002.iml" />
+    </modules>
+  </component>
+</project>
